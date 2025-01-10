@@ -20,8 +20,8 @@ A versatile chatbot that comes pre-configured with Utkarsh Classes knowledge and
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Utkarsh_Classes_GenAi_Chatbot.git
-   cd Utkarsh_Classes_GenAi_Chatbot
+   git clone https://github.com/kanwar19031/AI-ChatBot
+   cd AI-ChatBot
    ```
 
 2. **Set Up Environment**
